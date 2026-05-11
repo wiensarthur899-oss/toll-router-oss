@@ -1,0 +1,6 @@
+{
+  "name": "Toll Router OSS",
+  "description": "An Open-Source API Gateway and Rate Limiter with an integrated local dashboard. Full-stack TypeScript app using Express and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
